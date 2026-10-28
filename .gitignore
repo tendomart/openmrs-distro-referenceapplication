@@ -2,3 +2,14 @@
 **/.DS_Store
 **/node_modules/
 .idea/
+
+# Default work folder of tests/core3-modules/build-o3-core3-modules.sh
+o3-core3-modules/
+
+# LLM coding agent documentation
+CLAUDE.md
+.claude/
+.cursorrules
+.cursor/
+.aider*
+.clinerules
